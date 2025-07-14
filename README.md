@@ -1,6 +1,8 @@
 # Netflix-Data-Analysis
 This project analyzes Netflix data to uncover viewer behaviors and content trends, aiming to optimize content strategies and enhance user experience.
 
+![](https://github.com/parvvv10/Netflix-Project-/blob/main/logo.png)
+
 ## Objectives
 
 #### Improve data quality by handling foreign characters, removing duplicates, and converting data types.
